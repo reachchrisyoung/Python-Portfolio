@@ -1,0 +1,96 @@
+Random Number Generator: Dice Roll
+Programming Language: Python
+Libraries: Numpy
+Functions displayed: "random.randint(#,#)"
+Where to test the code: [Online Python, Beta](https://www.online-python.com/)
+----------------------------------------------------------------------------
+<h1>Random Number Generator: Dice Roll</h1>
+
+Below is the Python code that I've discovered online and had taken interest in further understanding & electing to rewrite.
+
+It was simple code found upon initial visit to an online web-browser based IDE prepped for an end user to copy & paste Python program into before running it.
+
+After practicing in Visual Studio and seeing the fruits of this brief code as collecting end user input to modify the output...
+
+I've revisited the project and delved deeper into both replicating and reviewing it.
+
+NOTE: This code can run independently. The code had ran successfully (post-copy & paste) at [Online Python, Beta](https://www.online-python.com/).  Likely, you will see this code at the aforementioned website.
+
+Start code:
+
+------------------------------------
+
+def sum(a, b):
+    return (a + b)
+
+a = int(input('Enter 1st number: '))
+b = int(input('Enter 2nd number: '))
+
+print(f'Sum of {a} and {b} is {sum(a, b)}')
+
+------------------------------------
+
+End Code
+
+I had ran the code to see successful output from end user inputs...
+
+NOTE: I, the end user at the time of this write-up, had input the values "1" and "2" as the program was executing.
+
+Output Start:
+
+------------------------------------
+
+Enter 1st number: 
+1
+Enter 2nd number: 
+2
+Sum of 1 and 2 is 3
+
+------------------------------------
+
+Output End
+
+## Discussion
+
+This can be replicated in an IDE by copy and paste, or simply drafting a variation therein.
+
+def sum(a, b):
+    return (a + b)
+
+This portion of the the code illustrates the mathematical operation that will be called upon later.
+
+User input
+
+int(input('Enter 1st number: '))
+
+The above code was replicated then set to two variables: a and b. 
+
+Note: The output statement to prompt the end user did, in fact, get changed for the "b" variable by identifying it a "2nd number" in the output execution.  
+
+Each variable was listed, then set to the above code.  As illustrated:
+
+a = int(input('Enter 1st number: '))
+
+Print Statement
+
+This portion has several parts to it:
+
++ 'Sum of a and b is ' had some additional elements to it.
+
++ Single quotes, input with the apostraphe key on the QWERTY American keybard, satisifed identifying the output text as just that: text to be displayed to the end user following the submission of the second value (which was set to 'b').
+
++ Braces placed around {a} and {b} suggest that, even within a string of display text, we are pulling values from somewhere else and inserting them into what will be displayed to the end user upon further code execution.
+
+
+
+
+
+np.random.randint(1,9) is articulating the randomizer and giving conditions whereby digits can be selected in a range spanning 1 to 9.  NOTE: This is essential for the outpout of this program to run as intended.
+
+Conclusion:
+
+For a simple project, this is a fun item that even younger students can enjoy and learn with.
+
+Next steps for this project can include prompting the end user to give inputs that could then be utilized in the print statement for a range of numbers from which the program can randomly select a number within.
+
+[Return to Python Portfolio](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
