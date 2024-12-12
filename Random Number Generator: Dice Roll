@@ -11,16 +11,19 @@ It was simple default code in a walkthrough tutorial of setting up Visual Studio
 
 After practicing in Visual Studio Code and seeing the fruits of this brief code function as a random number generator...
 
+NOTE: This code can run independently, provided the IDE has Numpy Library installed. 
+NOTE: Code ran successfully (post-copy & paste) at [Online Python, Beta](https://www.online-python.com/).
+
 Start code:
 
 ------------------------------------
 
-import numpy as np
-
-msg = "Roll a dice!"
-print(msg)
-
-print(np.random.randint(1,9))
+    import numpy as np
+    
+    msg = "Roll a dice!"
+    print(msg)
+    
+    print(np.random.randint(1,9))
 
 ------------------------------------
 
@@ -28,6 +31,27 @@ End Code
 
 I then copied and pasted the code into this randomly searched & discovered web browser-based IDE and ran the code to see success as well.
 
+Output Start:
+
+------------------------------------
 
 
-Image 1.  Proof of successfully 
+Roll a dice!
+4
+
+------------------------------------
+
+Output End
+
+## Discussion
+
+This can be replicated in an IDE by:
+
++ Ensuring Numpy is available.  
+  + If needed, NumPy can be installed using the pip package installer. Run the following line in your command prompt or terminal: 
+
+pip install numpy
+
+This will download and install most recent NumPy version from PyPI.
+
+[Return to Python Portfolio](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
