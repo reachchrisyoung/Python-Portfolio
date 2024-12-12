@@ -16,6 +16,8 @@ Image 1. Sample Output for Dice Roll: Random Number Generator
 ### User Input Combined with Mathematical Output
 [Click Here to see the Program's Write-Up & Code.](https://github.com/reachchrisyoung/Python-Portfolio/blob/68bc03d45a147332224d32c14c2a713032202ebe/User-Input-Math-Output)<br />
 ![userinputcombinedwithmathematicaloutputoutput](https://github.com/user-attachments/assets/63af8d80-6a52-454c-b3b2-b6c0da2a052f)<br />
-Image 2. Sample Output for User Input Combined with Mathematical Output
+Image 2. Sample Output for User Input Combined with Mathematical Output<br />
+<br />
+<br />
 <br />
 [Return to GitHub Portfolio](https://github.com/reachchrisyoung)
