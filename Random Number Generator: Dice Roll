@@ -1,0 +1,33 @@
+Random Number Generator: Dice Roll
+Programming Language: Python
+Libraries: Numpy
+Functions displayed: "random.randint(#,#)"
+----------------------------------------------------------------------------
+<h1>Random Number Generator: Dice Roll</h1>
+
+Below is the Python code that I've discovered online and found it interesting to rewrite.
+
+It was simple default code in a walkthrough tutorial of setting up Visual Studio Code (on initial download) that can be found by clicking [here](https://code.visualstudio.com/docs/python/python-tutorial#_install-and-use-packages).
+
+After practicing in Visual Studio Code and seeing the fruits of this brief code function as a random number generator...
+
+Start code:
+
+------------------------------------
+
+import numpy as np
+
+msg = "Roll a dice!"
+print(msg)
+
+print(np.random.randint(1,9))
+
+------------------------------------
+
+End Code
+
+I then copied and pasted the code into this randomly searched & discovered web browser-based IDE and ran the code to see success as well.
+
+
+
+Image 1.  Proof of successfully 
