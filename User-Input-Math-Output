@@ -1,10 +1,13 @@
-Random Number Generator: Dice Roll
+User Input Combined with Mathematical Output
 Programming Language: Python
-Libraries: Numpy
-Functions displayed: "random.randint(#,#)"
+Libraries: No special requirements
+Functions displayed: 
+    + Defining a mathematical operation that can later be recalled within the code
+    + Prompting end-user input during program execution
+    + Saving values to variables
 Where to test the code: [Online Python, Beta](https://www.online-python.com/)
 ----------------------------------------------------------------------------
-<h1>Random Number Generator: Dice Roll</h1>
+<h1>User Input Combined with Mathematical Output</h1>
 
 Below is the Python code that I've discovered online and had taken interest in further understanding & electing to rewrite.
 
@@ -79,18 +82,16 @@ This portion has several parts to it:
 
 + Single quotes, input with the apostraphe key on the QWERTY American keybard, satisifed identifying the output text as just that: text to be displayed to the end user following the submission of the second value (which was set to 'b').
 
-+ Braces placed around {a} and {b} suggest that, even within a string of display text, we are pulling values from somewhere else and inserting them into what will be displayed to the end user upon further code execution.
++ Braces, meaning squiggly brackets, placed around {a} and {b} suggest that, even within a string of display text, we are pulling values from somewhere else and inserting them into what will be displayed to the end user upon further code execution.
 
++ Braces, meaning squiggly brackets, are also placed around the previously defined {sum(a, b)} because this is still within the single quote for output text, even though a mathematical function is being executed here.
 
-
-
-
-np.random.randint(1,9) is articulating the randomizer and giving conditions whereby digits can be selected in a range spanning 1 to 9.  NOTE: This is essential for the outpout of this program to run as intended.
++ As it likely goes without saying, the print() simply displays all of this. 
 
 Conclusion:
 
 For a simple project, this is a fun item that even younger students can enjoy and learn with.
 
-Next steps for this project can include prompting the end user to give inputs that could then be utilized in the print statement for a range of numbers from which the program can randomly select a number within.
+Next steps for this project can include building out the complexity of the operations within the project to attempt to see if more user inputs can occur as the program executes following a major output statement like what is seen at the end of this program.
 
 [Return to Python Portfolio](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
