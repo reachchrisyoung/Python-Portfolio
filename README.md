@@ -4,4 +4,4 @@ Welcome to my Python Portfolio! This code repository contains examples of Python
 
 ## Simple Code
 
-### Dice Roll: Random Number Generator
+### [Dice Roll: Random Number Generator](https://github.com/reachchrisyoung/Python-Portfolio/blob/a90acd608544882d84def77406f030ddc909bebb/Random%20Number%20Generator%3A%20Dice%20Roll)
