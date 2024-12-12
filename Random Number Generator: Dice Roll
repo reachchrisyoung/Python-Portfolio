@@ -7,9 +7,11 @@ Functions displayed: "random.randint(#,#)"
 
 Below is the Python code that I've discovered online and found it interesting to rewrite.
 
-It was simple default code in a walkthrough tutorial of setting up Visual Studio Code (on initial download) that can be found by clicking [here](https://code.visualstudio.com/docs/python/python-tutorial#_install-and-use-packages).
+It was simple  code in a walkthrough tutorial found when setting up Visual Studio Code (on initial download) that can be found by clicking [here](https://code.visualstudio.com/docs/python/python-tutorial#_install-and-use-packages).
 
-After practicing in Visual Studio Code and seeing the fruits of this brief code function as a random number generator...
+After practicing in Visual Studio and seeing the fruits of this brief code as a random number generator...
+
+I've revisited the project and delved deeper into both replicating and reviewing it.
 
 NOTE: This code can run independently, provided the IDE has Numpy Library installed. 
 NOTE: Code ran successfully (post-copy & paste) at [Online Python, Beta](https://www.online-python.com/).
@@ -53,5 +55,14 @@ This can be replicated in an IDE by:
 pip install numpy
 
 This will download and install most recent NumPy version from PyPI.
+
++ import numpy as np <== This is critical because it's calling on the installed library of resources to make this program operate.
++ Print statement: np.random.randint(1,9) is articulating the randomizer and giving conditions whereby digits can be selected in a range spanning 1 to 9.  NOTE: This is essential for the outpout of this program to run as intended.
+
+Conclusion:
+
+For a simple project, this is a fun item that even younger students can enjoy and learn with.
+
+Next steps for this project can include prompting the end user to give inputs that could then be utilized in the print statement for a range of numbers from which the program can randomly select a number within.
 
 [Return to Python Portfolio](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
