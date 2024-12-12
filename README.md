@@ -4,7 +4,7 @@ Welcome to my Python Portfolio! This code repository contains examples of Python
 
 ## Table of Contents
 
-+ [Random Number Generator]
++ [Random Number Generator](https://github.com/reachchrisyoung/Python-Portfolio/blob/main/README.md#dice-roll-random-number-generator)
 
 ## Simple Code
 
