@@ -6,6 +6,7 @@ Welcome to my Python Portfolio!  This code repository contains examples of Pytho
 
 
 #### Simple Code Projects
++ [Band Name Generator](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#band-name-generator)
 + [Random Number Generator](https://github.com/reachchrisyoung/Python-Portfolio/blob/main/README.md#dice-roll-random-number-generator)
 + [User Input Combined with Mathematical Output](https://github.com/reachchrisyoung/Python-Portfolio/blob/main/README.md#user-input-combined-with-mathematical-output)
 + [Print Multiple Output Lines in 1 Statement](https://github.com/reachchrisyoung/Python-Portfolio/blob/main/README.md#print-multiple-output-lines-in-1-statement)
