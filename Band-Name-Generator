@@ -1,0 +1,36 @@
+Project: Band Name Generator
+Programming Language: Python
+Libraries: No special requirements
+Featured Aspects of Coding:
+- User Input Acquisition
+- Variable Naming & Recording Values in Variables
+- Recalling Variables in Concatenated Multi-Variable & String Output
+NOTE: Executed in an IDE (PyCharm)
+----------------------------------------------------------------------------
+<h1>Band Name Generator</h1>
+
+Start Code:
+
+------------------------------------
+
+print("Welcome to the Band Name Generator.  Please answer the following questions to get started:")
+city = input("Please enter the city that you grew up in: \n")
+pet = input("Now, please include the name of your pet (or make up one, if you'd like): \n")
+print("Your band name could be: " + city + " " + pet + ".")
+
+------------------------------------
+
+End Code
+
+Output Result Successful
+
+Copy & Paste Output:
+
+Welcome to the Band Name Generator.  Please answer the following questions to get started:
+Please enter the city that you grew up in:
+Sterling Heights
+Now, please include the name of your pet (or make up one, if you'd like):
+Cubby
+Your band name could be: Sterling Heights Cubby.
+
+[Return to Python Portfolio](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
