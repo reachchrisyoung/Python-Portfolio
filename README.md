@@ -23,6 +23,13 @@ Image 1. Sample Output for Dice Roll: Random Number Generator
 <br />
 Image 2. Sample Output for User Input Combined with Mathematical Output<br />
 <br />
+### User Input Combined with Mathematical Output
+[Click Here to see the Program's Write-Up & Code.]<br />
+<br />
+
+
+<br />
 <br />
 <br />
 [Return to GitHub Portfolio](https://github.com/reachchrisyoung)
+
