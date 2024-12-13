@@ -1,0 +1,40 @@
+Print Multiple Output Lines in 1 Statement
+Programming Language: Python
+Libraries: No special requirements
+Functions displayed: 
+    + print()
+Where to test the code: [Online Python, Beta](https://www.online-python.com/)
+----------------------------------------------------------------------------
+<h1>Print Multiple Output Lines in 1 Statement</h1>
+
+This is a sample bit of code on printing multiple lines.
+
+Coding / Programming Language(s): Python
+
+NOTE: Executed in an IDE (PyCharm)
+
+Start Code:
+
+------------------------------------
+
+print("""
+
+1. Mix 500g of Flour, 10g Yeast and 300ml Water in a bowl.
+2. Knead the dough for 10 minutes.
+3. Add 3g of Salt.
+4. Leave to rise for 2 hours.
+5. Bake at 200 degrees C for 30 minutes.""")
+
+------------------------------------
+
+End Code
+
+Output Result Successful
+
+1. Mix 500g of Flour, 10g Yeast and 300ml Water in a bowl.
+2. Knead the dough for 10 minutes.
+3. Add 3g of Salt.
+4. Leave to rise for 2 hours.
+5. Bake at 200 degrees C for 30 minutes.
+
+[Return to Python Portfolio](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
