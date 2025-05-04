@@ -13,7 +13,7 @@ Welcome to my Python Portfolio!  This code repository contains examples of Pytho
 
 <br />
 <br />
-[Return to the Top](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
+[Return to the Top](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme) 
 <br />
 <br />
 
