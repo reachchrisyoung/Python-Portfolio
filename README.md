@@ -12,9 +12,7 @@ Welcome to my Python Portfolio!  This code repository contains examples of Pytho
 + [Print Multiple Output Lines in 1 Statement](https://github.com/reachchrisyoung/Python-Portfolio/blob/main/README.md#print-multiple-output-lines-in-1-statement)
 <br />
 <br />
-
 [Return to the Top](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
-
 <br />
 <br />
 
