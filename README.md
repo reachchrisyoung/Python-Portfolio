@@ -15,7 +15,7 @@ Welcome to my Python Portfolio!  This code repository contains examples of Pytho
 [Return to the Top](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
 <br />
 <br />
-## Simple Code
+# Simple Code
 
 ### Band Name Generator
 [Click Here to see the Program's Write-Up & Code.](https://github.com/reachchrisyoung/Python-Portfolio/blob/89c0e95d03308c0dca620e386a25329a073bca39/Band-Name-Generator)<br />
