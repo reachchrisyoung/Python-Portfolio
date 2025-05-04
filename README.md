@@ -52,6 +52,10 @@ Image 1. Sample Output for Dice Roll: Random Number Generator
 <br />
 Image 2. Sample Output for User Input Combined with Mathematical Output<br />
 <br />
+<br />
+[Return to the Top](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
+<br />
+<br />
 ### Print Multiple Output Lines in 1 Statement
 [Click Here to see the Program's Write-Up & Code.](https://github.com/reachchrisyoung/Python-Portfolio/blob/87169c0e4c4ad4e4a84907862451cd72ff303d86/Print-Multiple-Output-Lines)<br />
 <br />
